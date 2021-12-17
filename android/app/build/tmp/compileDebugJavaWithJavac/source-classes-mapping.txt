@@ -1,0 +1,14 @@
+com/patikastore/BuildConfig.java
+ com.patikastore.BuildConfig
+com/patikastore/ReactNativeFlipper.java
+ com.patikastore.ReactNativeFlipper
+ com.patikastore.ReactNativeFlipper$1
+ com.patikastore.ReactNativeFlipper$2
+ com.patikastore.ReactNativeFlipper$2$1
+com/patikastore/MainActivity.java
+ com.patikastore.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/patikastore/MainApplication.java
+ com.patikastore.MainApplication
+ com.patikastore.MainApplication$1
